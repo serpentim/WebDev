@@ -1,0 +1,21 @@
+@import url(reset.css);
+
+.outer {
+	height: 300px;
+	width: 500px;
+	background-color: black;
+}
+
+.inner {
+	height: 100px;
+	width: 70px;
+	background-color: blue;
+}
+
+.ball {
+
+}
+
+.popup {
+	
+}
