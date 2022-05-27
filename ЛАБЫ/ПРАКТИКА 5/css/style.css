@@ -1,0 +1,17 @@
+h1 {
+	color: white;
+	background-color: black;
+}
+
+h2 {
+	color: white;
+	background-color: black;
+}
+
+.header {
+    width: 2000px;
+    height: 60px;
+    position: fixed;
+    background: #fff;
+    z-index: 1000;
+}
