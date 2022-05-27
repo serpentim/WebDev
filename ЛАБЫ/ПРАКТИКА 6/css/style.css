@@ -28,7 +28,6 @@
 		transform: scale(1.5);
 	}
 }
-
 .page {
   /* эти единицы измерения мы изучим чуть позже */
 	width: 100vw;
@@ -64,7 +63,7 @@
 	/* вызовите вашу анимацию здесь */
 	transform: scale(1.5);
 	animation-name: around;
-	animation-duration: 3s;
+	animation-duration: 2s;
 	animation-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);
 	animation-iteration-count: 5;
 }
